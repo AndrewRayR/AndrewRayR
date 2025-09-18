@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @AndrewRayR
-- 👀 I’m interested in Robotics
-- 🌱 I’m currently learning Geometry
-- 💞️ I’m looking to collaborate on Dev Projects
-- 📫 How to reach me: Email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love robotics and math.
+👋 Hello! I’m Andrew!
 
-<!---
-AndrewRayR/AndrewRayR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🏫 High school student passionate about robotics and technology
+
+🤖 Member of FRC Team 1895
+, where I help design and build competitive robots
+
+💻 Skilled in Python and its libraries, with a focus on microcontroller projects
+
+🔧 I enjoy experimenting with embedded systems, hardware programming, and creative electronics
+
+🛠️ Experience in PCB design and building custom electronic devices
+
+🌱 Always learning new ways to combine coding + hardware to solve problems
