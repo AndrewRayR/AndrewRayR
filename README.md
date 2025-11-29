@@ -1,6 +1,6 @@
 👋 Hello! I’m Andrew!
 
-🏫 High school student passionate about robotics and technology
+🏫 High school student passionate about Robotics and Technology
 
 🤖 Member of FRC Team 1895
 , where I help design and build competitive robots
