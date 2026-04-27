@@ -2,8 +2,7 @@
 
 🏫 High school student passionate about Robotics and Technology
 
-🤖 Member of FRC Team 1895
-, where I help design and build competitive robots
+🤖 Member of FRC Team 1895, where I help design and build competitive robots
 
 💻 Skilled in Python and its libraries, with a focus on microcontroller projects
 
